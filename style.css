@@ -92,13 +92,15 @@ body {
 
 /* Footer */
 .footer {
+  position: absolute;
+  bottom: 0;
   padding: 10px;
-  text-align: left;
   background: #ddd;
 }
 
 .footer p {
   margin: 0;
+  text-align: left;
   font-size: 10px;
 
 }
